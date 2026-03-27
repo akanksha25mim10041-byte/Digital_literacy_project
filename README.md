@@ -24,9 +24,6 @@ Drafted professional communications for academic and internship scenarios. This 
 --> Task 5: Cybercrime Awareness
 Researched a case study on Phishing and compiled a checklist for staying safe online, emphasizing Indian reporting channels like Helpline 1930. 
 
-# Academic Integrity
-This project is an original submission. All reflections and write-ups are my own work, created in accordance with the university's academic integrity guidelines. 
-
 
 
 
